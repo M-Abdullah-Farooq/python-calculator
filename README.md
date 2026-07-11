@@ -1,6 +1,6 @@
 # Simple Calculator
 
-A beginner-friendly calculator built in Python that do basic Arithmetic operations such as:
+A beginner-friendly calculator built using Python that does basic Arithmetic operations such as:
 * Addition
 * Subtraction
 * Multiplication
