@@ -9,7 +9,6 @@ A beginner-friendly calculator built in Python that do basic Arithmetic operatio
 * Input validation
 * Division-by-zero handling
 * Continuous calculations until the user chooses to quit
-* 
 ## What I Learned
 
 * Loops ('while')
